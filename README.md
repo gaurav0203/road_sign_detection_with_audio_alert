@@ -31,7 +31,7 @@ ______________
 
 ## Results : 
 
-![Results](/Images/resutls.png)
+![Results](/Images/results.png)
 > Results
 
 ![confusion_matrix](/Images/confusion_matrix_normalized.png)
